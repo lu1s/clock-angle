@@ -1,4 +1,4 @@
-** Angle Calculator
+*Angle Calculator*
 
 Simple calculator between hours and minutes in an analog clock.
 
